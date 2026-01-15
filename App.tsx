@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import About from './components/About';
-import Services from './components/Services';
-import Pricing from './components/Pricing';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import Header from './Header';
+import Hero from './Hero';
+import About from './About';
+import Services from './Services';
+import Pricing from './Pricing';
+import Contact from './Contact';
+import Footer from './Footer';
 
 function App() {
   return (
