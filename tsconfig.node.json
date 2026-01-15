@@ -1,4 +1,11 @@
 {
+  {
+    "files": [],
+    "references": [
+      { "path": "./tsconfig.app.json" },
+      { "path": "./tsconfig.node.json" }
+    ]
+  }
   "compilerOptions": {
     "target": "ES2022",
     "lib": ["ES2023"],
@@ -18,5 +25,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["vite.config.ts"]
+  "include": ["vite.config.ts"] 
 }
