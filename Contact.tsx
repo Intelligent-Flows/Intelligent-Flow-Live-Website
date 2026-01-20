@@ -21,7 +21,7 @@ const Contact = () => {
       icon: MessageCircle,
       title: 'WhatsApp',
       value: '069 210 5583 / 081 288 4614',
-      href: 'https://wa.me/27692105583',
+      href: 'https://wa.me/27812884614',
       color: 'from-green-500 to-green-700'
     }
   ];
